@@ -898,7 +898,7 @@ wheels = [
 ]
 
 [[package]]
-name = "karley-scheduling-agent"
+name = "main-agent"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

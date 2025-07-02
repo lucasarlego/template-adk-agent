@@ -1,7 +1,7 @@
 [project]
-name = "karley-scheduling-agent"
+name = "main-agent"
 version = "0.1.0"
-description = "Karley's scheduling agent for the A2A project."
+description = "A ready-to-use template for building ADK (Agent Development Kit) agents designed for seamless Agent-to-Agent (A2A) communication."
 requires-python = ">=3.10"
 dependencies = [
     "a2a-sdk>=0.2.5",
